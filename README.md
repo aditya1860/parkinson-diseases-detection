@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeuroVoice AI: Parkinson's Disease Prediction Web App (RF + SVM + SHAP + LIME)
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
@@ -127,3 +128,6 @@ Frontend Web Dashboard available at: `http://localhost:5173`
 ## ⚠️ Disclaimer
 
 This application is created solely for **educational, portfolio, and research demonstration purposes**. It is not a certified medical device and should not be used as a substitute for professional clinical diagnosis.
+=======
+# parkinson-diseases-detection
+>>>>>>> 8a8cbd8e94f0f810f81be5bfa026ef7b2cb6d74d
